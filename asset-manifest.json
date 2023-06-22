@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcc4c150.css",
+    "main.js": "/static/js/main.614ae988.js",
+    "static/js/787.9b1da57c.chunk.js": "/static/js/787.9b1da57c.chunk.js",
+    "static/media/Flipkart.png": "/static/media/Flipkart.e3fa83e403a3c2319a69.png",
+    "static/media/DreamCollection.png": "/static/media/DreamCollection.a9eb7be0a30099b28f4c.png",
+    "static/media/Desktime.png": "/static/media/Desktime.8106462eab081eabed79.png",
+    "static/media/jewellery.png": "/static/media/jewellery.1ae5396db555a090ace2.png",
+    "static/media/pf_version_5.jpeg": "/static/media/pf_version_5.53f4325e610677a46894.jpeg",
+    "static/media/Abhinav_Joshi_Resume.pdf": "/static/media/Abhinav_Joshi_Resume.bb6b134246e11169511f.pdf",
+    "static/media/mykaa.png": "/static/media/mykaa.366bc3194a025aa69cf9.png",
+    "index.html": "/index.html",
+    "main.dcc4c150.css.map": "/static/css/main.dcc4c150.css.map",
+    "main.614ae988.js.map": "/static/js/main.614ae988.js.map",
+    "787.9b1da57c.chunk.js.map": "/static/js/787.9b1da57c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc4c150.css",
+    "static/js/main.614ae988.js"
+  ]
+}
